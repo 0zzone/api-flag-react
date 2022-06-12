@@ -1,0 +1,64 @@
+body{
+    margin:0px;
+}
+
+.header{
+    background-color: #F5F5F5;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lien{
+    color: black;
+    text-decoration: none;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.title{
+    padding: 20px
+}
+
+.liste{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 50px
+}
+
+.card{
+    background-color: #333;
+    width: 400px;
+    height: 350px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+
+.titre{
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+    text-decoration: none;
+}
+
+.flag{
+    width: auto;
+    height: 140px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.capitale{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
